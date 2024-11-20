@@ -5,7 +5,7 @@
     'summary': """
         Hide Cost""",
 
-    'author': "Marn",
+    'author': "Deja-Tech",
 
     'category': 'Extra Tools',
     'version': '17.0',
